@@ -1,4 +1,25 @@
-body{
-    background-color: mint green
+body {
+    background-color: sky blue;
+}
+
+.nav-link{
+    font-weight: lighter;
+}
+
+.nav-link:hover{
+    font-weight:bolder;
+    background-color: #eee;
+}
+header{
+    height: 600px;
+    width:100%;
+    font-family: 'Pacifico', cursive;
+    background-image:url("Jn8zbnS.jpg");
+    background-size:cover;
+    text-align:center;
     
+}
+
+header p{
+    font-style: italic;
 }
