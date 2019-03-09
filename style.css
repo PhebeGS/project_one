@@ -1,5 +1,6 @@
 body {
     background-color: sky blue;
+
 }
 
 .nav-link{
@@ -19,7 +20,31 @@ header{
     text-align:center;
     
 }
-
 header p{
     font-style: italic;
+}
+
+.aboutus { 
+    text-align:center;
+}
+
+.aboutus i{
+    font-size:30px;
+    padding:25px 20px;
+
+/*change color*/
+color: #fff;
+background-color: #5cb8;
+
+/* resizing container icon*/
+width:80px;
+height:80px;
+
+/*container round*/
+border-radius:50%;
+}
+.aboutus span{
+    width: 200px;
+    display: inline-block;
+    
 }
